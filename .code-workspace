@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "guessr",
+			"path": "."
+		}
+	],
+	"settings": {
+		"[go]": {
+			"editor.insertSpaces": false,
+			"editor.formatOnSave": true,
+			"editor.codeActionsOnSave": {
+				"source.organizeImports": "explicit"
+			}
+		},
+		"editor.guides.bracketPairs": "active",
+	}
+}
